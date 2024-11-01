@@ -45,3 +45,6 @@ body {
     padding: 2rem;
     border: var(--secundary-color) solid 2px;
   }
+  #graficos-container {
+    margin: 5rem;
+  }
